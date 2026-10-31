@@ -115,3 +115,12 @@ QQ 音乐 19.57+ 的 MusicEx 文件不再内嵌 eKey。软件在 Windows 上会�
 
 QMCv2 密钥生成完全自包含（无需外部固定密钥），TEA 为 TarsCpp 魔改版（big-endian，32 位截断）。
 新版 `QQMusic EncV2,Key:`（QTag v2）加密需 garble_keys，暂不支持。
+
+## ☕ 赞助与支持
+
+如果您觉得喵喵音频转换器对您有所帮助，欢迎赞助支持作者！您的支持是项目持续维护与带来更多新特性的最大动力。
+
+| 微信支付 (WeChat Pay) | 支付宝 (Alipay) |
+| :---: | :---: |
+| <img src="assets/sponsor_wechat.jpg" width="260" alt="微信支付" /> | <img src="assets/sponsor_alipay.jpg" width="260" alt="支付宝" /> |
+
