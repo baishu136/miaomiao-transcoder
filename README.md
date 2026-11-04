@@ -1,5 +1,7 @@
 # 喵喵转码器
 
+![软件截图](assets/screenshot.png)
+
 一个便于使用的图形界面音频批量转换工具，基于 FFmpeg 与纯 Python 实现。
 
 ## 功能
